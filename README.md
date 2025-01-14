@@ -4,7 +4,7 @@
 
 ### Dashboard Link :https://app.powerbi.com/groups/me/reports/be5ffdcd-b876-4a43-a8ed-fb04b78ad7daReportSectionce2063a216d8e001051e?experience=power-bi
 
-## Problem Statement
+## Project Overview
 
 This dashboard is designed to help hotel management gain a deeper understanding of their customers. Various key performance indicators (KPIs) have been incorporated to provide comprehensive insights into their business. Some of the extensively used metrics in the hospitality industry included in the dashboard are Revenue Per Available Room (RevPAR), Average Daily Rate (ADR), Daily Sales Revenue Net (DSRN), Daily Booking Revenue Net (DBRN), Daily Unique Room Nights (DURN), Realization Percentage, and Occupancy Percentage. Several graphs and tooltips have been added to facilitate the analysis of week-over-week (WoW) changes across different aspects. Filters based on cities, months, and weeks have also been incorporated to enhance the user experience.
 
